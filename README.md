@@ -112,7 +112,7 @@ I'm always open to collaborating on interesting projects, discussing frontend de
 </p>
 
 <p align="center">
-  <i>"First, solve the problem. Then, write the code." — John Johnson</i>
+  <i>"First, solve the problem. Then, write the code." - Grace </i>
 </p>
 
 <p align="center">
